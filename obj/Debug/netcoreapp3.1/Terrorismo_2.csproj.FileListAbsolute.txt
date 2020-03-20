@@ -1,0 +1,11 @@
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2.deps.json
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2.runtimeconfig.json
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2.runtimeconfig.dev.json
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2.dll
+/home/igor/Área de Trabalho/Terrorismo_2/bin/Debug/netcoreapp3.1/Terrorismo_2.pdb
+/home/igor/Área de Trabalho/Terrorismo_2/obj/Debug/netcoreapp3.1/Terrorismo_2.csprojAssemblyReference.cache
+/home/igor/Área de Trabalho/Terrorismo_2/obj/Debug/netcoreapp3.1/Terrorismo_2.AssemblyInfoInputs.cache
+/home/igor/Área de Trabalho/Terrorismo_2/obj/Debug/netcoreapp3.1/Terrorismo_2.AssemblyInfo.cs
+/home/igor/Área de Trabalho/Terrorismo_2/obj/Debug/netcoreapp3.1/Terrorismo_2.dll
+/home/igor/Área de Trabalho/Terrorismo_2/obj/Debug/netcoreapp3.1/Terrorismo_2.pdb
